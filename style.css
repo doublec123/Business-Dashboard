@@ -592,6 +592,7 @@ nav {
     .hero {
         clip-path: none;
         border-radius: 25px;
+        color:white;
     }
     
     .hero h1 {
@@ -599,7 +600,9 @@ nav {
         margin-top: 5%;
         color:white;
     }
-    
+    .hero img{
+        display:none;
+    }
     .dashboard {
        
         margin-top: 38%;
