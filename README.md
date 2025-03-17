@@ -27,7 +27,7 @@ You can check out the live version of this frontend website here:
 
 ## 📷 Screenshots
 
-*(Add screenshots here if you have any – optional)*
+*./screenshot.png*
 
 ---
 
