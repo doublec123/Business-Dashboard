@@ -27,7 +27,7 @@ You can check out the live version of this frontend website here:
 
 ## 📷 Screenshots
 
-*./screenshot.PNG*
+![Business Dashboard Screenshot](./screenshot.PNG)
 
 ---
 
